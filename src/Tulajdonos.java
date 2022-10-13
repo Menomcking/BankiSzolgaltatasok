@@ -7,4 +7,6 @@ public final class Tulajdonos {
         public String getNev(){return nev;}
 
         public void setNev(String nev){this.nev = nev;}
+
+
 }
